@@ -1,7 +1,5 @@
 # Port Scanner menggunakan Library Socket Python
 
-<center>?????? ?????? ??????????? ??????????? </center>
-
 ## Latar Belakang Masalah 
 Port adalah suatu celah atau lubang pada system komputer sebagai jalur transfer data. Scanner adalah sebuah alat yang berfungsi untuk menyalin gambar 
 atau teks yang disimpan ke dalam memori komputer. Dari memori komputer lalu disimpan ke dalam hardisk atau floppy disk. Library adalah kumpulan program
@@ -27,5 +25,5 @@ Sebaiknya saat melakukan port scanner menggunakan socket python  di window dibut
 http://www.pythonforbeginners.com/code-snippets-source-code/port-scanner-in-python 
 
 ## Scan Plagiarisme
-[1] https://drive.google.com/file/d/0B3mytGJbyhIhdHpxbFQ3R3JhYU0/view
+[1] https://drive.google.com/file/d/0B3mytGJbyhIhdHpxbFQ3R3JhYU0/view <br>
 [2] https://drive.google.com/file/d/0B3mytGJbyhIhNVJQdVFkQ2lWT1E/view
