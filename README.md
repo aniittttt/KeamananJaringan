@@ -1,9 +1,9 @@
 # Network Security
 
-OSI (Open System Interconnection) and TCP/IP (Transfer Control Protocol/Internet Protocol)
+This is one of the subjects in the 5th smt
 
-NPM | Name | Class |
------|------|-------|
-1144067 | Anita Nur Aprilianti | D4 3C |
+NPM | Name | Class | Department | Campus |
+-----|------|-------|----------| ------ |
+1144067 | Anita Nur Aprilianti | D4 3C | Informatic Technic | Politeknik Pos Indonesia |
 
 
