@@ -25,5 +25,5 @@ Sebaiknya saat melakukan port scanner menggunakan socket python  di window dibut
 http://www.pythonforbeginners.com/code-snippets-source-code/port-scanner-in-python 
 
 ## Scan Plagiarisme
-[1] https://drive.google.com/file/d/0B3mytGJbyhIhdHpxbFQ3R3JhYU0/view <br>
-[2] https://drive.google.com/file/d/0B3mytGJbyhIhNVJQdVFkQ2lWT1E/view
+[1] https://drive.google.com/file/d/0B3mytGJbyhIhWUJfQ3JJUTBrYUk/view <br>
+[2] https://drive.google.com/file/d/0B3mytGJbyhIhS2Y3QmxiRE44ODg/view
