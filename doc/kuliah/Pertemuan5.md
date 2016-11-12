@@ -35,6 +35,6 @@ Spoofy adalah melakukan penipuan didalam suatu jaringan dengan melakukan replika
 
 Sebaiknya lebih berhati-hati lagi apabila akan mengakses sebuah alamat URL yang akan dituju dalam suatu komputer
 
-Scan Plagiarisme :
+Scan Plagiarisme : <br>
 [1] https://drive.google.com/file/d/0B3mytGJbyhIhTFVVT3VOZWpMZ0U/view <br>
 [2] https://drive.google.com/file/d/0B3mytGJbyhIhUnA0YlpaQzJNYm8/view
